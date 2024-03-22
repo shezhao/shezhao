@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @shezhao
-- 👀 I’m interested in  C/C++
-- 🌱 I’m currently learning  c/C++
 - 💞️ I’m looking to collaborate on study
 - 📫 How to reach me  3062286967qq.com
 
